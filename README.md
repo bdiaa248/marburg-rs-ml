@@ -19,6 +19,6 @@ The repository is structured around three core architectural pillars:
 ##  Research Motivation & Extensions
 Beyond the standard curriculum deliverables, my objective is to explore the spatial transferability of these models. I aim to test how algorithms trained on European datasets can be adapted to arid environments and complex agricultural systems, such as the Nile Delta in Egypt.
 
-## 🔗 Let's Connect
+## Let's Connect
 - **LinkedIn:** [Abdelrahman Diaa](https://www.linkedin.com/in/diaa-shousha)
 - **Portfolio:** [Diaa Shousha - GeoAI Specialist](https://abdodiaa.vercel.app/)
